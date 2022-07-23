@@ -1,3 +1,4 @@
+package string;
 
 
 import java.util.Scanner;
@@ -14,7 +15,7 @@ public class unikk {
 		a=a+b;
 		b=a.substring(0,x);
 		a=a.substring(x,x+y);
-		System.out.println("the  :");
+		System.out.println("the reversed str :");
 		
 		System.out.println(a);
 	

@@ -1,4 +1,4 @@
-
+package string;
 import java.util.*;
 public class splitString {
 	public static Scanner sc;

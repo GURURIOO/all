@@ -1,3 +1,5 @@
+package string;
+
 import java.util.*;
 public class strrev {
 //	private static final String Hashmap = null;

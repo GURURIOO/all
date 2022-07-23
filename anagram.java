@@ -1,3 +1,5 @@
+package string;
+
 import java.util.*;
 public class anagram {
 	public static Scanner sc= new Scanner(System.in);

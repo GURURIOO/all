@@ -1,3 +1,5 @@
+package string;
+
 
 import java.util.*;
 public class revers_an_string {
